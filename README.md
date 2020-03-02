@@ -17,13 +17,14 @@ on the hardware, it could take even 10-15 minutes to generate one image. To gene
 in their paper is that we could train the deep neural network which could perform this task in real time once trained (less than 1 second).  This is illustrated in the example below:
 
 Content image: <br>
-![Sebilj](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/Screenshot%20from%202020-03-02%2018-17-50.png?raw=true)
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/Screenshot%20from%202020-03-02%2018-17-50.png?raw=true'  height="400" width="600">
 
 Style image: <br>
-![Starry Night](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true)
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true'  height="500" width="600">
+
 
 Resulting image: <br>
 ![Starry Sebilj](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true)
 
 
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true'  height="600" width="400">
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true'  height="400" width="600">
