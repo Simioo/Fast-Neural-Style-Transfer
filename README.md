@@ -4,11 +4,10 @@ Deep Learning model for transferring the artistic style of one image to another,
 Link to Google Colab Notebook: https://colab.research.google.com/drive/1AOiWHk1Qnp3WKKoTvkToJzMi93q0gYJA
 
 
-This project is based on the following research papers:
-
-A Neural Algorithm of Artistic Style by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
-Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Justin Johnson, Alexandre Alahi, Li Fei-Fei
-Instance Normalization: The Missing Ingredient for Fast Stylization by Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky
+This project is based on the following research papers: <br> <br>
+<a href="https://arxiv.org/abs/1508.06576?source=post_page">A Neural Algorithm of Artistic Style</a> by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge  <br>
+<a href="https://arxiv.org/abs/1603.08155">Perceptual Losses for Real-Time Style Transfer and Super-Resolution</a> by Justin Johnson, Alexandre Alahi, Li Fei-Fei <br>
+<a href='https://arxiv.org/abs/1607.08022'> Instance Normalization: The Missing Ingredient for Fast Stylization </a> by Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky <br> <br>
 
 The goal of the project is to build and train a deep learning model capable of transferring the artistic style of one image to another, while preserving the original content of the other image.
 We train one network per style using MS-COCO dataset which contains around 70k images. Previous work on this topic of Leon A. Gatys et al. used optimization approach, where content image pixels
@@ -26,17 +25,17 @@ Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true'  height="400" width="600">
 
 
-We can train deep neural network for any style, so we'll give more examples of style images here: <br>
+<br> <br> We can train deep neural network for any style, so we'll give more examples: <br>
 
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/candy.jpg?raw=true'  height="350" width="300"> |
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="300" width="400">
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/88220537_843516089454988_1869737549010829312_n.png?raw=true'  height="500" width="700">
 
-The images that we get as a result are shown below:
+<br> <br>
 
 Content image: <br>
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="400" width="600">
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="400" width="600"> | <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="300" width="400">
 
 Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/chicago_mosaic.png?raw=true'  height="400" width="600">
 
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/88220537_843516089454988_1869737549010829312_n.png?raw=true'  height="500" width="700">
+
