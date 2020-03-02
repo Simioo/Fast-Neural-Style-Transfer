@@ -16,11 +16,14 @@ were directly modified to lower the values of both style and content loss functi
 on the hardware, it could take even 10-15 minutes to generate one image. To generate another image, we have to start this process all over again. The idea that Justin Johnson et al. presented
 in their paper is that we could train the deep neural network which could perform this task in real time once trained (less than 1 second).  This is illustrated in the example below:
 
-Content image:
-![Sebilj](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/Screenshot%20from%202020-03-02%2018-17-50.png?raw=true = 500x300)
+Content image: <br>
+![Sebilj](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/Screenshot%20from%202020-03-02%2018-17-50.png?raw=true)
 
-Style image:
-![Starry Night](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true = 450x400)
+Style image: <br>
+![Starry Night](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true)
 
-Resulting image:
+Resulting image: <br>
 ![Starry Sebilj](https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true)
+
+
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true'  height="600" width="400">
