@@ -27,13 +27,13 @@ Resulting image: <br>
 
 <br> <br> We can train deep neural network for any style, so we'll give more examples: <br>
 
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/candy.jpg?raw=true'  height="350" width="300"> |
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/candy.jpg?raw=true'  height="350" width="300"> 
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/88220537_843516089454988_1869737549010829312_n.png?raw=true'  height="350" width="500">
 
 <br> <br>
 
-Content image and style images: <br>
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="300" width="450"> | <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="250" width="350">
+Content image and style images: <br> <br>
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="300" width="450">  <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="250" width="350">
 
 Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/chicago_mosaic.png?raw=true'  height="400" width="600">
