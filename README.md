@@ -19,7 +19,7 @@ Content image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/Screenshot%20from%202020-03-02%2018-17-50.png?raw=true'  height="400" width="600">
 
 Style image: <br>
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true'  height="500" width="600">
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/starry_night_crop.jpg?raw=true'  height="400" width="450">
 
 Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/starry_sebilj.jpg?raw=true'  height="400" width="600">
@@ -32,8 +32,8 @@ Resulting image: <br>
 
 <br> <br>
 
-Content image: <br>
-<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="300" width="500"> | <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="250" width="350">
+Content image and style images: <br>
+<img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="300" width="450"> | <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="250" width="350">
 
 Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/chicago_mosaic.png?raw=true'  height="400" width="600">
