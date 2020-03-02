@@ -34,7 +34,7 @@ Resulting image: <br>
 Content image and style images: <br> <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/content-images/chicago.jpg?raw=true'  height="300" width="450">  <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/style_images/mosaic.jpg?raw=true'  height="250" width="350">
 
-Resulting image: <br>
+<br> Resulting image: <br>
 <img src='https://github.com/Simioo/Fast-Neural-Style-Transfer/blob/master/img/result-images/chicago_mosaic.png?raw=true'  height="400" width="600">
 
 
